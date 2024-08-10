@@ -1,0 +1,7 @@
+# Ignore the Linux kernel build artifacts
+*.ko
+*.mod.*
+*.o
+*.symvers
+*.order
+*.cmd
