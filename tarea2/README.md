@@ -73,7 +73,9 @@ El objetivo de esta tarea es familiarizar a los estudiantes con la automatizaci�
     053e92cffb27   alpine    "sleep 3600"   31 seconds ago   Up 30 seconds             container_8f3014
     ```
 
-    - Una captura de pantalla del comando `docker ps` mostrando los contenedores en ejecución se ha incluido en este repositorio como `tarea2sopes.png`.
+    - Una captura de pantalla del comando `docker ps` mostrando los contenedores en ejecución se ha incluido en este repositorio como `tarea2sopes.png`. 
+![Captura de Docker PS](tarea2sopes.png)
+
 
 ## **Entregables**
 
